@@ -1,6 +1,6 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-### NAME: S.L.NARASIMHA REDDY
-### REG NO: 212223040214
+### NAME: MOHAN KRISHNA J
+### REG NO: 212223220060
 ## AIM:
 To create a warehouse application in salesforce.com
 
